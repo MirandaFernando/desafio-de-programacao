@@ -1,7 +1,5 @@
-# desafio-de-programacao.
-DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI.
+# DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI.
 
-[Link Desafio.](https://docs.google.com/document/d/1fAzE01t6hEyg8JrbRo7vOA3K2W-NYisF/edit)
 [Questões Do projeto](#Questões-do-projeto)
 
 ## Sobre o desafio
@@ -48,6 +46,7 @@ Entrada:
 
 n=6
 
+```output
 saida:
           *
          **
@@ -55,6 +54,7 @@ saida:
        ****
       *****
      ******
+```
 
 ## Questão 02
 
@@ -105,5 +105,5 @@ Explicação:
 A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão nas posições [[0], [3]], [[8],  [9]] e [[0, 1, 2], [1, 2, 3]].
 .
 
-
+[Link Desafio.](https://docs.google.com/document/d/1fAzE01t6hEyg8JrbRo7vOA3K2W-NYisF/edit)
 
