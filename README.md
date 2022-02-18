@@ -37,7 +37,7 @@ Para rodar os testes, basta digitar o comando no cmd:
   npm test
 ```
 
-#Questões do projeto
+# Questões do projeto
 
 ## Questao 01
 
@@ -50,11 +50,11 @@ n=6
 
 saida:
           *
-        **
-      ***
-    ****
-  *****
-******
+         **
+        ***
+       ****
+      *****
+     ******
 
 ## Questão 02
 
