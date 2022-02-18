@@ -6,7 +6,7 @@ DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI.
 
 ## Instalando o Node.js no Windows
 
-A instalação do Node no Windows é relativamente simples, [basta acessar o site oficial](https://nodejs.org/en/) e fazer download do instalador. Até a escrita deste artigo a versão Current do Node é 13.11.0.
+A instalação do Node no Windows é relativamente simples, [basta acessar o site oficial](https://nodejs.org/en/) e fazer download do instalador. Até a escrita deste artigo a versão Current do Node é 15.5.0.
 
 Execute o instalador, siga as instruções na tela e pronto, o Node está instalado e adicionado ao PATH do Windows. Feche todos os terminais abertos e você está pronto para prosseguir.
 
